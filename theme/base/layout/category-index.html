@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="archive">
+    <header class="archive-head">
+        <h1 class="page-title">Categories</h1>
+        <p class="page-description">{{ site.category | length }} categories across all posts</p>
+    </header>
+    <div class="taxonomy-list">
+        {{ list_category(orderby="name", order=1, list=true, show_count=true) | safe }}
+    </div>
+</div>
+{% endblock main %}

@@ -1,0 +1,259 @@
+[2m2026-09-26T17:22:54.771202Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-26T17:22:54.985619Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-26T17:22:54.986203Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-26T17:22:54.986214Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-26T17:47:46.352992Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-26T17:47:46.562765Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-26T17:47:46.562788Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-26T17:47:46.562801Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-26T17:52:05.723720Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2026/06/15/Rereading-Ordinary-World-After-12-Years/, error info: Invalid path
+[2m2026-09-26T18:12:21.432877Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2026/02/23/Container-K8s-and-PaaS/, error info: Invalid path
+[2m2026-09-26T18:36:35.621847Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: tags/Rust/, error info: Invalid path
+[2m2026-09-27T00:45:20.615461Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2026/03/21/Match-Str-Quickly/, error info: Invalid path
+[2m2026-09-27T04:16:36.940360Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: tags/ReadCode/, error info: Invalid path
+[2m2026-09-27T06:32:33.568993Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-27T06:32:35.696571Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-09-27T07:59:42.374132Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2025/10/26/ArchLinux/, error info: Invalid path
+[2m2026-09-27T08:27:01.126074Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: 2025/04/12/HighPerformanceMySQL-2/, error info: Invalid path
+[2m2026-09-27T09:30:15.596408Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m84[0m[2m:[0m BadRequest: request file name: tags, error info: Invalid path
+[2m2026-09-27T10:52:51.654592Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-27T10:52:51.865729Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-27T10:52:51.866322Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-27T10:52:51.866333Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-27T16:12:20.472077Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/07/20/A-Small-C-Runtime-Built-In-Rust/, error info: Invalid path
+[2m2026-09-27T16:12:31.409447Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/07/20/A-Small-C-Runtime-Built-In-Rust/, error info: Invalid path
+[2m2026-09-27T17:14:50.057563Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/06/16/AccessRust-2/, error info: Invalid path
+[2m2026-09-27T17:14:53.909028Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/06/16/AccessRust-2/, error info: Invalid path
+[2m2026-09-27T17:34:32.279021Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3/, error info: Invalid path
+[2m2026-09-27T17:34:34.487314Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3/, error info: Invalid path
+[2m2026-09-27T17:34:35.676514Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3/, error info: Invalid path
+[2m2026-09-27T22:35:04.750108Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/page/2/, error info: Invalid path
+[2m2026-09-28T00:28:06.220111Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-28T00:28:08.654471Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-09-28T01:09:14.458121Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-28T01:09:14.781420Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-28T01:09:14.782745Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-28T01:09:14.782781Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-28T01:09:33.120635Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/something-interesting-on-javaer/, error info: Invalid path
+[2m2026-09-28T01:15:17.944897Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: assets/giscus.css', error info: Invalid path
+[2m2026-09-28T01:16:10.512743Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: assets/giscus.css', error info: Invalid path
+[2m2026-09-28T01:35:35.375472Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Docker/, error info: Invalid path
+[2m2026-09-28T01:35:36.510981Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Docker/, error info: Invalid path
+[2m2026-09-28T01:52:55.088759Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/11/24/Outage-of-Cloudflare/, error info: Invalid path
+[2m2026-09-28T02:52:55.169723Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-09-28T03:36:16.377008Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/19/AccessRust-1/, error info: Invalid path
+[2m2026-09-28T03:36:18.762077Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/19/AccessRust-1/, error info: Invalid path
+[2m2026-09-28T04:07:32.721723Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/page/4/, error info: Invalid path
+[2m2026-09-28T04:07:44.820075Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/page/4/, error info: Invalid path
+[2m2026-09-28T04:19:38.482752Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/, error info: Invalid path
+[2m2026-09-28T04:19:41.984786Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/, error info: Invalid path
+[2m2026-09-28T04:40:55.414055Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/08/08/The-Beauty-Spirit-Of-Internet-RSS/, error info: Invalid path
+[2m2026-09-28T04:52:51.226682Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/04/15/Move-Work-Env-From-Windows2Linux/, error info: Invalid path
+[2m2026-09-28T04:52:55.070332Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/04/15/Move-Work-Env-From-Windows2Linux/, error info: Invalid path
+[2m2026-09-28T04:53:05.318002Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/04/15/Move-Work-Env-From-Windows2Linux/, error info: Invalid path
+[2m2026-09-28T05:46:15.442636Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: about/index.html, error info: Invalid path
+[2m2026-09-28T05:46:19.632796Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: about/index.html, error info: Invalid path
+[2m2026-09-28T06:18:06.592249Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Docker/, error info: Invalid path
+[2m2026-09-28T07:40:27.917468Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詞, error info: Invalid path
+[2m2026-09-28T07:40:29.758504Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詞, error info: Invalid path
+[2m2026-09-28T07:40:33.059019Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詞, error info: Invalid path
+[2m2026-09-28T07:40:35.014715Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詞, error info: Invalid path
+[2m2026-09-28T07:55:58.681924Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-09-28T07:56:01.064780Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-09-28T07:56:02.958641Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-09-28T07:57:00.871485Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詩, error info: Invalid path
+[2m2026-09-28T07:57:04.651718Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詩, error info: Invalid path
+[2m2026-09-28T07:57:06.940027Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/詩, error info: Invalid path
+[2m2026-09-28T07:57:53.252538Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/源码阅读, error info: Invalid path
+[2m2026-09-28T07:57:55.995677Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/源码阅读, error info: Invalid path
+[2m2026-09-28T07:57:57.359966Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/源码阅读, error info: Invalid path
+[2m2026-09-28T07:58:01.837403Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/源码阅读, error info: Invalid path
+[2m2026-09-28T08:02:55.833889Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:02:57.944666Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:03:00.087735Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:03:01.477438Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:03:46.432855Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:03:50.469718Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:03:55.890263Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:04:42.713076Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:04:44.690054Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:04:47.447957Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:04:49.326758Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-09-28T08:05:43.421069Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/ci, error info: Invalid path
+[2m2026-09-28T08:05:44.976458Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/ci, error info: Invalid path
+[2m2026-09-28T08:05:46.853251Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/ci, error info: Invalid path
+[2m2026-09-28T08:05:50.541629Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tag/ci, error info: Invalid path
+[2m2026-09-28T08:06:42.241888Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Docker/, error info: Invalid path
+[2m2026-09-28T15:02:14.353859Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/, error info: Invalid path
+[2m2026-09-28T15:02:19.373625Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/, error info: Invalid path
+[2m2026-09-28T15:02:23.710739Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives/, error info: Invalid path
+[2m2026-09-28T16:09:26.763387Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/07/20/A-Small-C-Runtime-Built-In-Rust/, error info: Invalid path
+[2m2026-09-28T16:20:27.215698Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives, error info: Invalid path
+[2m2026-09-28T17:15:42.151112Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-28T17:17:26.298072Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-09-28T17:44:01.683468Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/06/09/Zhihu-In-The-AI-Era/, error info: Invalid path
+[2m2026-09-28T18:37:33.163464Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3, error info: Invalid path
+[2m2026-09-28T21:04:40.328075Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Java/, error info: Invalid path
+[2m2026-09-28T21:04:43.366496Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Java/, error info: Invalid path
+[2m2026-09-28T21:04:44.834802Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Java/, error info: Invalid path
+[2m2026-09-28T22:04:51.824951Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags/Java/, error info: Invalid path
+[2m2026-09-28T22:55:40.502521Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/06/15/Rereading-Ordinary-World-After-12-Years/, error info: Invalid path
+[2m2026-09-28T22:55:42.135499Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/06/15/Rereading-Ordinary-World-After-12-Years/, error info: Invalid path
+[2m2026-09-28T22:55:43.600019Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/06/15/Rereading-Ordinary-World-After-12-Years/, error info: Invalid path
+[2m2026-09-29T00:43:07.290376Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/3/, error info: Invalid path
+[2m2026-09-29T01:31:15.163667Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/09/20/Vim-nvim/, error info: Invalid path
+[2m2026-09-29T01:31:16.687106Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/09/20/Vim-nvim/, error info: Invalid path
+[2m2026-09-29T01:31:18.034520Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/09/20/Vim-nvim/, error info: Invalid path
+[2m2026-09-29T03:07:48.250214Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: archives, error info: Invalid path
+[2m2026-09-29T04:59:09.875283Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/08/21/Rust-Cross-Compiling/, error info: Invalid path
+[2m2026-09-29T06:00:49.894092Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T06:40:42.564768Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/01/21/Things-Behind-One-Access-1/, error info: Invalid path
+[2m2026-09-29T07:38:00.791776Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: about, error info: Invalid path
+[2m2026-09-29T08:15:52.672559Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T08:15:54.763768Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T08:15:56.931141Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T08:15:58.357174Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T09:16:07.758996Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/2/, error info: Invalid path
+[2m2026-09-29T09:21:05.246516Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: .git/config, error info: Invalid path
+[2m2026-09-29T09:22:32.336981Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: tags, error info: Invalid path
+[2m2026-09-29T10:27:07.852474Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: .env, error info: Invalid path
+[2m2026-09-29T10:49:36.982767Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-29T10:49:41.770897Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-09-29T11:39:01.465824Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:01.804539Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:39:12.060479Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:12.322096Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:39:19.057036Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:19.260762Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:39:27.309604Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:27.508687Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:39:33.560922Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:33.759090Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:39:53.023827Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:39:53.246057Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-29T11:39:53.246686Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-29T11:39:53.246698Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-29T11:41:23.280104Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:41:23.491445Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:41:37.533698Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:41:37.741650Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:47:37.381532Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:47:37.589776Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:48:54.401707Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:48:54.609006Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:48:59.152150Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:48:59.357707Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:49:01.402968Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:49:01.606178Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:49:04.903726Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:49:05.106951Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:49:06.904345Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:49:07.106599Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:49:38.702183Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:49:38.914610Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-29T11:49:38.914631Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-29T11:49:38.914636Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-29T11:51:39.457900Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:51:39.668985Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:51:49.711989Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:51:49.921357Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:51:51.961151Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:51:52.165350Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m417[0m[2m:[0m TERA reloaded.
+[2m2026-09-29T11:52:06.371044Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T11:52:06.585203Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-29T11:52:06.585830Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-29T11:52:06.585841Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-29T12:11:49.722857Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m82[0m[2m:[0m BadRequest: request file name: page/4/, error info: Invalid path
+[2m2026-09-29T13:28:07.981585Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T13:28:08.203202Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-29T13:28:08.203234Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-29T13:28:08.203239Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-29T13:28:39.468630Z[0m [31mERROR[0m [2mtles::server[0m[2m:[0m[2m329[0m[2m:[0m Failed to render changed file: Failed to read blog.
+[2m2026-09-29T13:28:39.468700Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:28:45.720196Z[0m [31mERROR[0m [2mtles::server[0m[2m:[0m[2m329[0m[2m:[0m Failed to render changed file: Failed to read blog.
+[2m2026-09-29T13:28:45.720257Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:29:30.731911Z[0m [31mERROR[0m [2mtles::server[0m[2m:[0m[2m329[0m[2m:[0m Failed to render changed file: Failed to read blog.
+[2m2026-09-29T13:29:30.731979Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:29:33.483380Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:31:13.760295Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:32:54.039860Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:33:40.551670Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:41:41.933023Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m693[0m[2m:[0m Render public/home/index.html
+[2m2026-09-29T13:41:42.148952Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-09-29T13:41:42.149562Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-09-29T13:41:42.149574Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-09-29T13:50:20.295397Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T13:50:56.804755Z[0m [32m INFO[0m [2mtles::server[0m[2m:[0m[2m338[0m[2m:[0m Site global info reloaded.
+[2m2026-09-29T14:53:02.803274Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: wp-includes/wlwmanifest.xml, error info: Invalid path
+[2m2026-09-29T18:20:29.802954Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-09-29T21:39:40.041300Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: about/index.html, error info: Invalid path
+[2m2026-09-29T23:10:08.587676Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/19/AccessRust-1/, error info: Invalid path
+[2m2026-09-29T23:10:09.677580Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/19/AccessRust-1/, error info: Invalid path
+[2m2026-09-29T23:10:12.677060Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/19/AccessRust-1/, error info: Invalid path
+[2m2026-09-30T01:01:09.084438Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: about, error info: Invalid path
+[2m2026-09-30T03:58:45.972614Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-30T03:58:55.321319Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-09-30T07:27:30.344902Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: tags/Docker/, error info: Invalid path
+[2m2026-09-30T07:27:47.266147Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-09-30T07:27:48.723305Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: miniflux-rsshub.png, error info: Invalid path
+[2m2026-09-30T12:32:15.181049Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-09-30T12:32:19.423664Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-09-30T12:32:21.355522Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-09-30T12:32:25.222534Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-09-30T18:06:47.179088Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-09-30T21:14:37.299229Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-09-30T21:14:39.230952Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-10-01T02:21:38.937921Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/03/27/Understanding-Rust-References-and-Smart-Pointers/index.html, error info: Invalid path
+[2m2026-10-01T08:03:08.615011Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/02/27/How-Access-The-Real-World/, error info: Invalid path
+[2m2026-10-01T14:13:10.396241Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-10-01T14:13:12.449156Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-10-01T18:04:08.275324Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: about/, error info: Invalid path
+[2m2026-10-01T23:16:11.233221Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-10-01T23:43:33.744626Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: xmlrpc.php, error info: Invalid path
+[2m2026-10-01T23:43:34.019494Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: xmlrpc.php, error info: Invalid path
+[2m2026-10-02T07:18:39.882036Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-10-02T07:18:42.855234Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-10-02T07:58:09.114701Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/04/21/Fix-Nvidia-Wayland-Start-Fatal-In-Debian13/, error info: Invalid path
+[2m2026-10-02T10:14:02.943854Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-10-02T11:05:54.211694Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php, error info: Invalid path
+[2m2026-10-02T14:10:50.222612Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/24/Outage-of-Cloudflare/, error info: Invalid path
+[2m2026-10-02T14:33:16.407535Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T14:33:19.768658Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T14:35:41.358931Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-10-02T14:35:44.678464Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-10-02T14:35:47.661242Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/blog.cloudflare.com/, error info: Invalid path
+[2m2026-10-02T14:38:26.936369Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3, error info: Invalid path
+[2m2026-10-02T14:38:31.062181Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3, error info: Invalid path
+[2m2026-10-02T14:38:35.638985Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/08/HighPerformanceMySQL-3, error info: Invalid path
+[2m2026-10-02T15:11:14.218856Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/24/Outage-of-Cloudflare/, error info: Invalid path
+[2m2026-10-02T17:07:26.292244Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/03/27/Understanding-Rust-References-and-Smart-Pointers/index.html, error info: Invalid path
+[2m2026-10-02T17:08:55.255360Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/03/27/Understanding-Rust-References-and-Smart-Pointers/index.html, error info: Invalid path
+[2m2026-10-02T18:32:35.698002Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/30/HighPerformanceMySQL-4/, error info: Invalid path
+[2m2026-10-02T18:32:37.174433Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/30/HighPerformanceMySQL-4/, error info: Invalid path
+[2m2026-10-02T18:32:39.285015Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/05/30/HighPerformanceMySQL-4/, error info: Invalid path
+[2m2026-10-02T21:40:03.750121Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: wp-includes/wlwmanifest.xml, error info: Invalid path
+[2m2026-10-02T23:14:31.559011Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-10-02T23:14:34.305319Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-10-02T23:14:37.841847Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: category/技术, error info: Invalid path
+[2m2026-10-02T23:15:08.610647Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ja/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:13.328145Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ja/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:15.431732Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ja/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:17.280983Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:21.797625Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:23.158102Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:24.029991Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/ko/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:25.979673Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:28.562790Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/zh-CN/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:31.391889Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:33.268221Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-02T23:15:37.244282Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: post/en/kubernetes.io/docs/concepts/architecture/, error info: Invalid path
+[2m2026-10-03T01:07:20.088057Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2025/11/26/, error info: Invalid path
+[2m2026-10-03T01:07:24.344342Z[0m [33m WARN[0m [2mtles::server::run[0m[2m:[0m[2m74[0m[2m:[0m BadRequest: request file name: 2026/01/01/, error info: Invalid path
+[2m2026-10-03T03:15:20.450796Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m730[0m[2m:[0m Render public/home/index.html
+[2m2026-10-03T03:15:20.763015Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-10-03T03:15:20.763038Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-10-03T03:15:20.763044Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
+[2m2026-10-03T03:21:22.210723Z[0m [32m INFO[0m [2mtles::server::render[0m[2m:[0m[2m730[0m[2m:[0m Render public/home/index.html
+[2m2026-10-03T03:21:22.421798Z[0m [32m INFO[0m [2mactix_server::builder[0m[2m:[0m[2m336[0m[2m:[0m starting 2 workers
+[2m2026-10-03T03:21:22.422757Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m205[0m[2m:[0m Tokio runtime found; starting in existing Tokio runtime
+[2m2026-10-03T03:21:22.422769Z[0m [32m INFO[0m [2mactix_server::server[0m[2m:[0m[2m210[0m[2m:[0m starting service: "actix-web-service-0.0.0.0:8917", workers: 2, listening on: 0.0.0.0:8917
