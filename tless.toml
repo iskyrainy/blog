@@ -6,7 +6,7 @@ subtitle = "IF YOU CAN’T TELL, DOES IT MATTER?"
 description = "Here is GDHVXCJ’s blog site. Irregularly update blogs about life record, learning experience and technology sharing. Wish a better day. 😌"
 rights = "2026 gdhvxcj"
 author = "GDHVXCJ"
-url = "https://gdhvxcj.cn/blog"
+url = "https://iskyrainy.github.io/blog"
 zone = "Asia/Shanghai"
 theme = "base"
 favicon = "https://i.postimg.cc/t4vTRtJf/favicon.jpg"
@@ -15,6 +15,7 @@ menu = [
     { name = "Tags", link = "/tag" },
     { name = "Categories", link = "/category" },
 ]
+target_lang = ["zh-CN", "en", "ja", "ko"]
 
 # Post comments via giscus (https://giscus.app). Copy the ids from the site's
 # configuration box into your repository's Discussions setup. Comments stay
