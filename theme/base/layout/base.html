@@ -18,8 +18,16 @@
         url_for(path="/assets/style.css", relative=false),
         url_for(path="/assets/highlight.css", relative=false)
     ]) }}
+
+    <!-- comment next line for clear emergence -->
+    {{ js(path={"src": url_for(path="/assets/emergence.js", relative=false), "defer": ""}) }}
 </head>
 <body>
+
+<!-- comment next two lines for clear emergence -->
+<canvas id="emergence" class="emergence" aria-hidden="true"></canvas>
+<div class="emergence-veil" aria-hidden="true"></div>
+
 <header class="site-header">
     <div class="header-inner">
         <a class="brand" href="{{ url_for(path="/", relative=false) }}" aria-label="{{ site.config.title }}">
